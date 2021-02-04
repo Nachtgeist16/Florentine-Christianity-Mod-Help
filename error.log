@@ -1,0 +1,180 @@
+[17:47:19][dlc.cpp:347]: Invalid supported_version in  file: mod/ugc_2218249327.mod line: 12
+[17:47:19][dlc.cpp:347]: Invalid supported_version in  file: mod/ugc_2220360707.mod line: 12
+[17:47:19][dlc.cpp:347]: Invalid supported_version in  file: mod/ugc_2222839530.mod line: 7
+[17:47:19][dlc.cpp:347]: Invalid supported_version in  file: mod/ugc_2229791349.mod line: 8
+[17:47:19][dlc.cpp:347]: Invalid supported_version in  file: mod/ugc_2245860963.mod line: 8
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 273
+" in file: "save games/Duke_Davide_of_Florentia_1130_10_31.ck3" near line: 273
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 303
+" in file: "save games/Duke_Flavio_of_Florence_1071_03_15.ck3" near line: 303
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 419
+" in file: "save games/Duke_Flavio_of_Florence_1074_12_23.ck3" near line: 419
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 187
+" in file: "save games/Florence for EU4.ck3" near line: 187
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 389
+" in file: "save games/High_Chieftain_Davide_of_Florentia_1078_06_30.ck3" near line: 389
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 273
+" in file: "save games/High_Chieftain_Davide_of_Florentia_1119_05_16.ck3" near line: 273
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave.ck3" near line: 1
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave_1.ck3" near line: 1
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave_2.ck3" near line: 1
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 273
+" in file: "save games/Duke_Davide_of_Florentia_1130_10_31.ck3" near line: 273
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 303
+" in file: "save games/Duke_Flavio_of_Florence_1071_03_15.ck3" near line: 303
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 419
+" in file: "save games/Duke_Flavio_of_Florence_1074_12_23.ck3" near line: 419
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 187
+" in file: "save games/Florence for EU4.ck3" near line: 187
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 389
+" in file: "save games/High_Chieftain_Davide_of_Florentia_1078_06_30.ck3" near line: 389
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 273
+" in file: "save games/High_Chieftain_Davide_of_Florentia_1119_05_16.ck3" near line: 273
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave.ck3" near line: 1
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave_1.ck3" near line: 1
+[17:48:00][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave_2.ck3" near line: 1
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 273
+" in file: "save games/Duke_Davide_of_Florentia_1130_10_31.ck3" near line: 273
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 303
+" in file: "save games/Duke_Flavio_of_Florence_1071_03_15.ck3" near line: 303
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 419
+" in file: "save games/Duke_Flavio_of_Florence_1074_12_23.ck3" near line: 419
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 187
+" in file: "save games/Florence for EU4.ck3" near line: 187
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 389
+" in file: "save games/High_Chieftain_Davide_of_Florentia_1078_06_30.ck3" near line: 389
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 273
+" in file: "save games/High_Chieftain_Davide_of_Florentia_1119_05_16.ck3" near line: 273
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave.ck3" near line: 1
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave_1.ck3" near line: 1
+[17:48:27][pdx_persistent_reader.cpp:229]: Error: "Failed to read key reference: alcoa_minimum_tier_duchy: alcoa_minimum_tier_duchy, near line: 1
+" in file: "save games/autosave_2.ck3" near line: 1
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:305 - Widget (id '2192') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:449 - Widget (id '2296') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:209 - Widget (id '2124') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:215 - Widget (id '2129') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:122 - Widget (id '2065') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:438 - Widget (id '2288') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:281 - Widget (id '2176') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:112 - Widget (id '2058') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:249 - Widget (id '2153') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:142 - Widget (id '2076') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:326 - Widget (id '2208') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:167 - Widget (id '2094') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:407 - Widget (id '2265') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:426 - Widget (id '2279') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:429 - Widget (id '2281') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/shared/defaults.gui:131 - Widget (id '74714') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:348 - Widget (id '2223') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:195 - Widget (id '2114') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:223 - Widget (id '2134') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:12 - Widget (id '1995') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:40 - Widget (id '2018') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '62026') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '62026') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '62026') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '62026') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:155 - Widget (id '2085') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:296 - Widget (id '2187') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '62033') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '62033') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '62033') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '62033') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '22112') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '22112') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '22112') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '22112') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:395 - Widget (id '2256') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:308 - Widget (id '2194') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:335 - Widget (id '2215') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:57 - Widget (id '2026') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:345 - Widget (id '2221') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:173 - Widget (id '2099') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '22118') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '22118') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '22118') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '22118') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:82 - Widget (id '2041') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:63 - Widget (id '2030') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:229 - Widget (id '2139') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:256 - Widget (id '2157') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:452 - Widget (id '2298') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:181 - Widget (id '2104') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:386 - Widget (id '2250') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:29 - Widget (id '2010') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:375 - Widget (id '2242') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:1 - Widget (id '1986') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:1 - Widget (id '1986') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:162 - Widget (id '2090') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:378 - Widget (id '2244') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:24 - Widget (id '2006') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:317 - Widget (id '2201') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:234 - Widget (id '2143') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:68 - Widget (id '2034') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:201 - Widget (id '2119') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:35 - Widget (id '2014') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:356 - Widget (id '2229') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:288 - Widget (id '2180') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:460 - Widget (id '2305') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:187 - Widget (id '2109') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:416 - Widget (id '2272') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:243 - Widget (id '2148') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:273 - Widget (id '2169') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:265 - Widget (id '2164') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:478 - Widget (id '2318') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:398 - Widget (id '2258') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:179 - Widget (id '2103') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '22102') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '22102') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '22102') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '22102') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:151 - Widget (id '2083') has not been destroyed
+[17:51:14][gui_editor.cpp:695]: gui/console.gui:365 - Widget (id '2236') has not been destroyed
